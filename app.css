@@ -1,0 +1,14 @@
+body {
+
+	background-color: skyblue;
+	color: white;
+}
+
+h1 {
+    font-size: 15rem;
+    font-family: Montserrat;
+}
+
+.letter {
+    transition: color 1000ms;
+}
